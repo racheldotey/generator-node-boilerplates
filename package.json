@@ -1,9 +1,13 @@
 {
-  "name": "generator-node",
-  "version": "2.8.0",
-  "description": "Create a Node.js module",
-  "homepage": "https://github.com/yeoman/generator-node",
-  "author": "Yeoman team",
+  "name": "generator-node-boilerplates",
+  "version": "0.0.0",
+  "description": "Project starting boilerplate's for node.js projects.",
+  "homepage": "https://github.com/racheldotey/generator-node-boilerplates",
+  "author": {
+    "name": "Rachel Dotey",
+    "email": "rachel.dotey@gmail.com",
+    "url": "https://racheldotey.ninja"
+  },
   "files": [
     "index.js",
     "generators"
